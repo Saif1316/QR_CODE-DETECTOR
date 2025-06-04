@@ -1,0 +1,8 @@
+path: C:\Users\Saif\OneDrive\Pictures\Desktop\Pixonates lab Internship project\data
+train: Images\train
+val: Images\val
+test: Images\test
+nc: 2
+names:
+  0: qr_code
+  1: Other
